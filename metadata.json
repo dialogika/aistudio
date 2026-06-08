@@ -1,0 +1,6 @@
+{
+  "name": "Dialogika Poster Editor",
+  "description": "An interactive 4:5 aspect ratio poster customizer with drag-and-drop placeholder image replacement, custom typography editing, and high-quality image downloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
